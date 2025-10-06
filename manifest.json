@@ -1,0 +1,11 @@
+{
+  "domain": "zse_sk",
+  "name": "ZSE Slovakia",
+  "version": "0.1.0",
+  "documentation": "https://kucinsky.com/homeassistant/zse_sk",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@radoslav-kucinsky"],
+  "iot_class": "cloud_polling",
+  "integration_type": "hub"
+}
